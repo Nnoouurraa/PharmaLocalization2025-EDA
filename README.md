@@ -4,7 +4,7 @@ This project analyzes the entire Saudi pharmaceutical market (Local and Imported
 Key Strategic Findings
 Metric	Result	Strategic Implication
 Import Reliance	71.05% of all registered products are imported.	Confirms the large scale of the market opportunity for domestic production.
-Top Local Champions	PSI, TABUK, SPIMACO	The core manufacturers to guide national growth and receive support.
+Top Local PSI, TABUK, SPIMACO	The core manufacturers to guide national growth and receive support.
 Critical Gap (NCE)	27.3% difference (Import vs. Local Share).	High-priority for attracting partnerships with Germany, US, France.
 Critical Gap (Biologics)	12.3% difference.	Represents the most critical vulnerability, requiring urgent investment in biotechnology capacity.
 Local vs. Global Supply
