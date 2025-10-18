@@ -17,3 +17,4 @@ Generic Competitors: India, Jordan, UAE are the primary rivals to local manufact
 
 Technical Note
 The project uses Python (Pandas, Scikit-learn) to integrate the local and imported data, providing a data-driven blueprint for national pharmaceutical localization efforts.
+How to Run Ensure CSV files (Human Drugs Products Local.csv, Imported human drug products) are in the content folder. Run the main script: python SFDA2025.py
